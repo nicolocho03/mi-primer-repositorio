@@ -1,1 +1,3 @@
-# mi-primer-repositorio
+Nicolas Gomez Cano
+
+Git es un sistema de control de versiones distribuido que permite a los desarrolladores gestionar y registrar los cambios en el código fuente de un proyecto a lo largo del tiempo. Facilita la colaboración entre múltiples desarrolladores, permitiendo trabajar en paralelo mediante ramas y fusionar cambios de manera eficiente. Además, Git ofrece comandos esenciales como git init para inicializar repositorios, git add para preparar cambios, git commit para confirmar modificaciones, y git push y git pull para sincronizar con repositorios remotos. Su uso es fundamental en el desarrollo de software moderno para mantener un historial detallado de cambios y coordinar esfuerzos en equipo.
